@@ -27,9 +27,9 @@
         </div>
         <div class="sm:block sm:flex sm:items-center">
           <div class="px-2 pt-2 pb-5 border-b border-gray-800 sm:flex sm:border-b-0 sm:py-0 sm:px-0">
-            <a href="#" class="font-semibold rounded px-3 py-1 block text-white hover:bg-gray-800 sm:text-sm sm:px-2 xl:text-gray-900">List your property</a>
-            <a href="#" class="font-semibold rounded px-3 py-1 mt-1 block text-white hover:bg-gray-800 sm:mt-0 sm:text-sm sm:px-2 sm:ml-2 xl:text-gray-900">Trips</a>
-            <a href="#" class="font-semibold rounded px-3 py-1 mt-1 block text-white hover:bg-gray-800 sm:mt-0 sm:text-sm sm:px-2 sm:ml-2 xl:text-gray-900">Messages</a>
+            <a href="#" class="font-semibold rounded px-3 py-1 block text-white hover:bg-gray-800 sm:text-sm sm:px-2 xl:text-gray-900 xl:hover:text-gray-100 xl:hover:bg-gray-500">List your property</a>
+            <a href="#" class="font-semibold rounded px-3 py-1 mt-1 block text-white hover:bg-gray-800 sm:mt-0 sm:text-sm sm:px-2 sm:ml-2 xl:text-gray-900 xl:hover:text-gray-100 xl:hover:bg-gray-500">Trips</a>
+            <a href="#" class="font-semibold rounded px-3 py-1 mt-1 block text-white hover:bg-gray-800 sm:mt-0 sm:text-sm sm:px-2 sm:ml-2 xl:text-gray-900 xl:hover:text-gray-100 xl:hover:bg-gray-500">Messages</a>
           </div>
           <div class="px-5 py-5 sm:ml-4 sm:py-0 sm:px-0">
             <div class="flex items-center">
